@@ -5,6 +5,9 @@
 ### Ссылка на проект
 [drw_crypto_prediction.ipynb](crypto_market_prediction.ipynb)
 
+### Ссылка на соревнование Kaggle
+[DRW - Crypto Market Prediction](https://www.kaggle.com/competitions/drw-crypto-market-prediction)
+
 ---
 
 ## Этапы работы
