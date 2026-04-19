@@ -3,7 +3,7 @@
 Проект по предсказанию краткосрочных ценовых движений на криптовалютном рынке с использованием машинного обучения. В рамках задачи использовались как открытые рыночные данные, так и специальные индикаторы торговой компании DRW.
 
 ### Ссылка на проект
-[drw_crypto_prediction.ipynb](crypto_market_prediction.ipynb)
+[crypto_market_prediction.ipynb](crypto_market_prediction.ipynb)
 
 ### Ссылка на соревнование Kaggle
 [DRW - Crypto Market Prediction](https://www.kaggle.com/competitions/drw-crypto-market-prediction)
